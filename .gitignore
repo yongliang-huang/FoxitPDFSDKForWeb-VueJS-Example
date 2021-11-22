@@ -21,6 +21,6 @@ yarn-error.log*
 *.sw?
 
 # websdk files
-
+ 
 src/foxit-lib
 src/license-key.js
